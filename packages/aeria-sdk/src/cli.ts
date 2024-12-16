@@ -1,6 +1,6 @@
-import { parseArgs } from 'util'
+import { parseArgs } from 'node:util'
 import { mirrorRemotely } from './mirror.js'
-import { getConfig } from './utils.js'
+import { getConfig } from './config.js'
 
 const { values: opts } = parseArgs({
   options: {

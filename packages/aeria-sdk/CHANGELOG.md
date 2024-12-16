@@ -1,5 +1,17 @@
 # aeria-sdk
 
+## 0.0.158
+
+### Patch Changes
+
+- 8cd5493: Add missing specifiers
+
+## 0.0.157
+
+### Patch Changes
+
+- 62f3730: Remove NodeJS code from bundle
+
 ## 0.0.156
 
 ### Patch Changes
